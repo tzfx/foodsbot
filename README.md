@@ -1,5 +1,10 @@
 # Foodsby and Slack
 
+## Pre-reqs
+Install the following:
+- openssl-devel
+- rustup <https://www.rust-lang.org/tools/install>
+
 ## Configuration
 Global Variables to set:
 - FOODSBOT_SLACK_TOKEN: Slack OAUTH token.
